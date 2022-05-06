@@ -1,0 +1,9 @@
+Django==3.2
+djangorestframework==3.13.1
+asgiref
+dj-database-url
+gunicorn
+psycopg2
+pytz
+sqlparse
+whitenoise
